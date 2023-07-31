@@ -1,4 +1,7 @@
-# Olá! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> :) 
+# Olá! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 
+
+📝 Sou Desenvolvedora Full Stack JavaScript com ampla experiência no relacionamento entre usuários e o desenvolvimento de sistemas.
+    Atualmente sou freelancer em Front-end web. 
 
 
 <a href="https://www.linkedin.com/in/katia-packer" target="_blank">
