@@ -35,10 +35,8 @@
   <img align="center" alt="Postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
   <img align="center" alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+ 
 </div>
 
-### Buzzwords ⚡:
-  
-<div align="left">
-   <img align="center" alt="SaaS" src="https://img.shields.io/badge/SaaS-orange?style=for-the-badge&logo=SaaS&logoColor=white">
-</div>
+
+
