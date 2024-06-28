@@ -1,6 +1,6 @@
-# Olá! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 
+# Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 
 
-📝 Olá! Sou desenvolvedora full-stack apaixonada por Python e suas aplicações em automação e inteligência artificial. Minha experiência abrange o desenvolvimento de soluções web com Django e Flask, análise de dados com Pandas, e criação de microsserviços escaláveis. Tenho um forte conhecimento em JavaScript, mas minha paixão reside em utilizar Python para construir ferramentas inteligentes e eficientes. Atualmente, trabalho como freelancer, ajudando empresas a otimizar seus processos e inovar com IA.
+📝 Hello! I'm a full-stack developer passionate about Python and its applications in automation and artificial intelligence. My experience encompasses developing web solutions with Django and Flask, data analysis with Pandas, and creating scalable microservices. I have a strong knowledge of JavaScript, but my passion lies in using Python to build intelligent and efficient tools. Currently, I work as a freelancer, helping companies optimize their processes and innovate with AI.
 
 
 <a href="https://www.linkedin.com/in/katia-packer" target="_blank">
