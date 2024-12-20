@@ -5,7 +5,7 @@
 Professional with 16 years of experience in technology, specializing in the development of business solutions, including ERP, CRM, legacy systems, and geoprocessing. Currently transitioning to a programming-focused career, I have skills in Python, Pandas, Flask, and SQL. I am currently participating in a Machine Learning bootcamp, where I am developing technical expertise in TensorFlow, PyTorch, Scikit-learn, and NumPy. I have experience with databases such as Oracle, MySQL, PostgreSQL, and MongoDB, as well as version control tools like Git, GitHub, Bitbucket, and Azure DevOps.
 I am driven by continuous learning and the creation of innovative solutions, with a focus on automation.
 
-English Level: B1 - Maior Vergara | English-4-tech na community DIO
+English Level: B1 - Maior Vergara | English-4-Tech on the DIO community
 
 Contact: katiaarruda0188@gmail.com
 
