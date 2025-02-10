@@ -12,7 +12,7 @@ With expertise in project management and agile methodologies, I strive to delive
 
 English Level: B1 - Maior Vergara | English-4-Tech on the DIO community
 
-Contact: katiaarruda0188@gmail.com
+Contact:knsolucoestecnologicas@outlook.com
 
 
 <a href="https://www.linkedin.com/in/katia-packer" target="_blank">
