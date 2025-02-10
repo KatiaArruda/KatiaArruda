@@ -6,13 +6,6 @@
 
 With experience in ERP, CRM, and databases (Oracle, MySQL, PostgreSQL, MongoDB), I help businesses automate operations, integrate systems, and extract valuable insights using Python, SQL, and Machine Learning.
 
-🔹 How I can help your business:
-✅ Process automation and optimization of repetitive tasks
-✅ API development and system integration
-✅ Interactive dashboards for data analysis
-✅ Machine Learning applications for insights and predictions
-✅ Web development for custom business solutions
-
 With expertise in project management and agile methodologies, I strive to deliver high-value solutions that help businesses operate more efficiently.
 
 📩 Open to new projects and collaborations! Let’s discuss how technology can drive results for your business.
