@@ -1,9 +1,21 @@
 # Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 
 
-📝 Python Developer| Machine Learning Engineer | TensorFlow |PyTorch| Pandas | Flask | Jupyter Notebooks
+📝 Freelance Developer | ERP, SQL & Python Expert | Automation & Machine Learning Solutions
 
-Professional with 16 years of experience in technology, specializing in the development of business solutions, including ERP, CRM, legacy systems, and geoprocessing. Currently transitioning to a programming-focused career, I have skills in Python, Pandas, Flask, and SQL. I am currently participating in a Machine Learning bootcamp, where I am developing technical expertise in TensorFlow, PyTorch, Scikit-learn, and NumPy. I have experience with databases such as Oracle, MySQL, PostgreSQL, and MongoDB, as well as version control tools like Git, GitHub, Bitbucket, and Azure DevOps.
-I am driven by continuous learning and the creation of innovative solutions, with a focus on automation.
+💡 My mission is to simplify complex processes and turn data into strategic decisions by combining automation, artificial intelligence, and web development.
+
+With experience in ERP, CRM, and databases (Oracle, MySQL, PostgreSQL, MongoDB), I help businesses automate operations, integrate systems, and extract valuable insights using Python, SQL, and Machine Learning.
+
+🔹 How I can help your business:
+✅ Process automation and optimization of repetitive tasks
+✅ API development and system integration
+✅ Interactive dashboards for data analysis
+✅ Machine Learning applications for insights and predictions
+✅ Web development for custom business solutions
+
+With expertise in project management and agile methodologies, I strive to deliver high-value solutions that help businesses operate more efficiently.
+
+📩 Open to new projects and collaborations! Let’s discuss how technology can drive results for your business.
 
 English Level: B1 - Maior Vergara | English-4-Tech on the DIO community
 
