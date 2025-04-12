@@ -1,18 +1,16 @@
 # Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 
 
-📝 Freelance Developer | ERP, SQL & Python Expert | Automation & Machine Learning Solutions
+📝 Full Stack Developer | Senior Systems Analyst
 
-💡 My mission is to simplify complex processes and turn data into strategic decisions by combining automation, artificial intelligence, and web development.
+💡 Full Stack Developer with a focus on data analysis, specializing in creating scalable solutions and system integration. Skilled in Python (Flask, Django, Pandas) and JavaScript (Node.js) for developing RESTful APIs, microservices, and dynamic interfaces.
 
-With experience in ERP, CRM, and databases (Oracle, MySQL, PostgreSQL, MongoDB), I help businesses automate operations, integrate systems, and extract valuable insights using Python, SQL, and Machine Learning.
+Experienced in ERP, CRM, and databases (Oracle, MySQL, PostgreSQL), leveraging Jupyter Notebooks and Google Colab for data experimentation and solution prototyping.
 
-With expertise in project management and agile methodologies, I strive to deliver high-value solutions that help businesses operate more efficiently.
-
-📩 Open to new projects and collaborations! Let’s discuss how technology can drive results for your business.
+Proficient in Agile methodologies (Scrum, Kanban) and tools like Git, GitHub, and Azure DevOps for collaboration and version control. Passionate about innovation and continuous learning, always striving to develop solutions that transform data into real business value.
 
 English Level: B1 - Maior Vergara | English-4-Tech on the DIO community
 
-Contact:knsolucoestecnologicas@outlook.com
+
 
 
 <a href="https://www.linkedin.com/in/katia-packer" target="_blank">
