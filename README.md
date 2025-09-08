@@ -1,14 +1,8 @@
 # Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 
 
-📝 Full Stack Developer | Senior Systems Analyst
+Senior IT Professional with over 12 years of experience in systems analysis, full-stack development, and process automation. Proficient in Python, Node.js, JavaScript, React, Power Platform, and ERP/CRM integrations.
 
-💡 Full Stack Developer with a focus on data analysis, specializing in creating scalable solutions and system integration. Skilled in Python (Flask, Django, Pandas) and JavaScript (Node.js) for developing RESTful APIs, microservices, and dynamic interfaces.
-
-Experienced in ERP, CRM, and databases (Oracle, MySQL, PostgreSQL), leveraging Jupyter Notebooks and Google Colab for data experimentation and solution prototyping.
-
-Proficient in Agile methodologies (Scrum, Kanban) and tools like Git, GitHub, and Azure DevOps for collaboration and version control. Passionate about innovation and continuous learning, always striving to develop solutions that transform data into real business value.
-
-English Level: B1 - Maior Vergara | English-4-Tech on the DIO community
+Possessing a hybrid background in technology and business, she excels at translating organizational needs into effective digital solutions. Currently, she also serves as a University Professor, focusing on innovation, automation, and shaping the next generation of tech professionals.
 
 
 
