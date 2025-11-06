@@ -52,7 +52,7 @@ Hybrid background in technology and business, specializing in bridging organizat
 - **Process Automation & System Integration** specialist
 - **Cloud Solutions** on AWS/Azure platforms
 - **API & Microservices** development
-- **Mentoring** next-generation developers
+
 
 ## 📈 GitHub Analytics
 
