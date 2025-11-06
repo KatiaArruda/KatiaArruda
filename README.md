@@ -53,16 +53,6 @@ Hybrid background in technology and business, specializing in bridging organizat
 - **Cloud Solutions** on AWS/Azure platforms
 - **API & Microservices** development
 
-
-## 📈 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&langs_count=7&theme=radical"/>
-</div>
-
----
-
 <div align="center">
   💼 <i>Open to collaborating on innovative automation projects and system integrations!</i>
 </div>
